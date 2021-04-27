@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Data\\GroceryApp.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj",
+        "projectName": "GroceryApp.Core.Entities",
+        "projectPath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj",
+        "packagesPath": "C:\\Users\\kulsoom-Abbas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kulsoom-Abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core\\GroceryApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core\\GroceryApp.Core.csproj",
+        "projectName": "GroceryApp.Core",
+        "projectPath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core\\GroceryApp.Core.csproj",
+        "packagesPath": "C:\\Users\\kulsoom-Abbas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kulsoom-Abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj": {
+                "projectPath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Data\\GroceryApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Data\\GroceryApp.Data.csproj",
+        "projectName": "GroceryApp.Data",
+        "projectPath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Data\\GroceryApp.Data.csproj",
+        "packagesPath": "C:\\Users\\kulsoom-Abbas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kulsoom-Abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj": {
+                "projectPath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj"
+              },
+              "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core\\GroceryApp.Core.csproj": {
+                "projectPath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core\\GroceryApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
