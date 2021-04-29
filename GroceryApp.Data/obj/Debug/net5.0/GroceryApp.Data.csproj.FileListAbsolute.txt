@@ -15,3 +15,20 @@ C:\Users\kulsoom-Abbas\source\Android 4th sem\grocery-app-backend\Grocery App\Gr
 C:\Users\kulsoom-Abbas\source\Android 4th sem\grocery-app-backend\Grocery App\GroceryApp.Data\obj\Debug\net5.0\GroceryApp.Data.dll
 C:\Users\kulsoom-Abbas\source\Android 4th sem\grocery-app-backend\Grocery App\GroceryApp.Data\obj\Debug\net5.0\ref\GroceryApp.Data.dll
 C:\Users\kulsoom-Abbas\source\Android 4th sem\grocery-app-backend\Grocery App\GroceryApp.Data\obj\Debug\net5.0\GroceryApp.Data.pdb
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\bin\Debug\net5.0\GroceryApp.Data.deps.json
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\bin\Debug\net5.0\GroceryApp.Data.dll
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\bin\Debug\net5.0\ref\GroceryApp.Data.dll
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\bin\Debug\net5.0\GroceryApp.Data.pdb
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\bin\Debug\net5.0\GroceryApp.Core.dll
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\bin\Debug\net5.0\GroceryApp.Core.Entities.dll
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\bin\Debug\net5.0\GroceryApp.Core.Entities.pdb
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\bin\Debug\net5.0\GroceryApp.Core.pdb
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\obj\Debug\net5.0\GroceryApp.Data.csprojAssemblyReference.cache
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\obj\Debug\net5.0\GroceryApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\obj\Debug\net5.0\GroceryApp.Data.AssemblyInfoInputs.cache
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\obj\Debug\net5.0\GroceryApp.Data.AssemblyInfo.cs
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\obj\Debug\net5.0\GroceryApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\obj\Debug\net5.0\GroceryApp.Data.csproj.CopyComplete
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\obj\Debug\net5.0\GroceryApp.Data.dll
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\obj\Debug\net5.0\ref\GroceryApp.Data.dll
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Data\obj\Debug\net5.0\GroceryApp.Data.pdb

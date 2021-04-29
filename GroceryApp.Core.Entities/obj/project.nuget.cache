@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cF/FzaArCZV9SdUWqhMn4ZgdivAB8Yi8Xwr03ClR0jLKHK3xjHwY2YrxKWiNFpEyEW56UJOo5dRSYe22j97D2Q==",
+  "dgSpecHash": "MLy759exrbaWdJkr8mNVLQJA335BurCKJ2JvNGiuynSwP7rwxJR7lHlUy2ra8QSFBDqIgr8sA5Dg3x7XSbUMWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj",
+  "projectFilePath": "C:\\Users\\dpank\\Documents\\GitHub\\grocery-app\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

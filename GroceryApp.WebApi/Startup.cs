@@ -49,6 +49,12 @@ namespace GroceryApp.WebApi
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "GroceryApp.WebApi", Version = "v1" });
             });
+
+            #region CORS
+            services.AddCors(options => options.AddPolicy("AllowEverything", builder => builder.AllowAnyOrigin()
+                                                                                               .AllowAnyMethod()
+                                                                                               .AllowAnyHeader()));
+            #endregion
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

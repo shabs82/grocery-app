@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj": {}
+    "C:\\Users\\dpank\\Documents\\GitHub\\grocery-app\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj": {
+    "C:\\Users\\dpank\\Documents\\GitHub\\grocery-app\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\dpank\\Documents\\GitHub\\grocery-app\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj",
         "projectName": "GroceryApp.Core.Entities",
-        "projectPath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj",
-        "packagesPath": "C:\\Users\\kulsoom-Abbas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\obj\\",
+        "projectPath": "C:\\Users\\dpank\\Documents\\GitHub\\grocery-app\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj",
+        "packagesPath": "C:\\Users\\dpank\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dpank\\Documents\\GitHub\\grocery-app\\GroceryApp.Core.Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kulsoom-Abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dpank\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

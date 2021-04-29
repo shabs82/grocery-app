@@ -562,23 +562,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kulsoom-Abbas\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\dpank\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Data\\GroceryApp.Data.csproj",
+      "projectUniqueName": "C:\\Users\\dpank\\Documents\\GitHub\\grocery-app\\GroceryApp.Data\\GroceryApp.Data.csproj",
       "projectName": "GroceryApp.Data",
-      "projectPath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Data\\GroceryApp.Data.csproj",
-      "packagesPath": "C:\\Users\\kulsoom-Abbas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Data\\obj\\",
+      "projectPath": "C:\\Users\\dpank\\Documents\\GitHub\\grocery-app\\GroceryApp.Data\\GroceryApp.Data.csproj",
+      "packagesPath": "C:\\Users\\dpank\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dpank\\Documents\\GitHub\\grocery-app\\GroceryApp.Data\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\kulsoom-Abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dpank\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -592,11 +588,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj": {
-              "projectPath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj"
+            "C:\\Users\\dpank\\Documents\\GitHub\\grocery-app\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj": {
+              "projectPath": "C:\\Users\\dpank\\Documents\\GitHub\\grocery-app\\GroceryApp.Core.Entities\\GroceryApp.Core.Entities.csproj"
             },
-            "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core\\GroceryApp.Core.csproj": {
-              "projectPath": "C:\\Users\\kulsoom-Abbas\\source\\Android 4th sem\\grocery-app-backend\\Grocery App\\GroceryApp.Core\\GroceryApp.Core.csproj"
+            "C:\\Users\\dpank\\Documents\\GitHub\\grocery-app\\GroceryApp.Core\\GroceryApp.Core.csproj": {
+              "projectPath": "C:\\Users\\dpank\\Documents\\GitHub\\grocery-app\\GroceryApp.Core\\GroceryApp.Core.csproj"
             }
           }
         }
@@ -631,7 +627,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

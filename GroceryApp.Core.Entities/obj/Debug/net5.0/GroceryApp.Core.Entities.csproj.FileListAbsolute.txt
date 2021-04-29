@@ -10,3 +10,15 @@ C:\Users\kulsoom-Abbas\source\Android 4th sem\grocery-app-backend\Grocery App\Gr
 C:\Users\kulsoom-Abbas\source\Android 4th sem\grocery-app-backend\Grocery App\GroceryApp.Core.Entities\obj\Debug\net5.0\GroceryApp.Core.Entities.dll
 C:\Users\kulsoom-Abbas\source\Android 4th sem\grocery-app-backend\Grocery App\GroceryApp.Core.Entities\obj\Debug\net5.0\ref\GroceryApp.Core.Entities.dll
 C:\Users\kulsoom-Abbas\source\Android 4th sem\grocery-app-backend\Grocery App\GroceryApp.Core.Entities\obj\Debug\net5.0\GroceryApp.Core.Entities.pdb
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Core.Entities\bin\Debug\net5.0\GroceryApp.Core.Entities.deps.json
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Core.Entities\bin\Debug\net5.0\GroceryApp.Core.Entities.dll
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Core.Entities\bin\Debug\net5.0\ref\GroceryApp.Core.Entities.dll
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Core.Entities\bin\Debug\net5.0\GroceryApp.Core.Entities.pdb
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Core.Entities\obj\Debug\net5.0\GroceryApp.Core.Entities.csprojAssemblyReference.cache
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Core.Entities\obj\Debug\net5.0\GroceryApp.Core.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Core.Entities\obj\Debug\net5.0\GroceryApp.Core.Entities.AssemblyInfoInputs.cache
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Core.Entities\obj\Debug\net5.0\GroceryApp.Core.Entities.AssemblyInfo.cs
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Core.Entities\obj\Debug\net5.0\GroceryApp.Core.Entities.csproj.CoreCompileInputs.cache
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Core.Entities\obj\Debug\net5.0\GroceryApp.Core.Entities.dll
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Core.Entities\obj\Debug\net5.0\ref\GroceryApp.Core.Entities.dll
+C:\Users\dpank\Documents\GitHub\grocery-app\GroceryApp.Core.Entities\obj\Debug\net5.0\GroceryApp.Core.Entities.pdb
