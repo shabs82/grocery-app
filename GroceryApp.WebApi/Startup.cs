@@ -97,6 +97,7 @@ namespace GroceryApp.WebApi
                 dataInitializer.SeedDB(ctx);
             }
 
+            app.UseCors("AllowEverything");
 
             app.UseHttpsRedirection();
 
