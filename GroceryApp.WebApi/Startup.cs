@@ -22,21 +22,34 @@ namespace GroceryApp.WebApi
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        public Startup(IConfiguration configuration, IWebHostEnvironment env)
         {
             Configuration = configuration;
+            Environment = env;
         }
 
         public IConfiguration Configuration { get; }
+        public IWebHostEnvironment Environment { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<GroceryAppContext>(
+            if (Environment.IsDevelopment())
+            {
+                services.AddDbContext<GroceryAppContext>(
                 opt =>
                 {
                     opt.UseSqlite("Data Source= GroceryLocatorApp.db");
                 });
+            }
+            if (Environment.IsProduction())
+            {
+                services.AddDbContext<GroceryAppContext>(
+                    opt =>
+                    {
+                        opt.UseSqlServer(Configuration.GetConnectionString("defaultConnection"));
+                    });
+            }
 
 
             services.AddScoped<IStoreRepo, StoreRepo>();
@@ -58,9 +71,10 @@ namespace GroceryApp.WebApi
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            
+            if (env.IsDevelopment())
+            {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "GroceryApp.WebApi v1"));
@@ -71,7 +85,17 @@ namespace GroceryApp.WebApi
                 ctx.Database.EnsureDeleted();
                 ctx.Database.EnsureCreated();
                 DBInitialiser.SeedDB(ctx);
+            }
+            else if (env.IsProduction())
+            {
+                using var scope = app.ApplicationServices.CreateScope();
+                var ctx = scope.ServiceProvider.GetRequiredService<GroceryAppContext>();
+                var dataInitializer = scope.ServiceProvider.GetRequiredService<IDBInitialiser>();
 
+                ctx.Database.EnsureCreated();
+
+                dataInitializer.SeedDB(ctx);
+            }
 
 
             app.UseHttpsRedirection();
